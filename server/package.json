@@ -1,0 +1,1 @@
+{\n  "name": "farm-link",\n  "version": "1.0.0",\n  "description": "A farm management system backend",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongodb": "^4.0.0",\n    "socket.io": "^4.0.0"\n  }\n}
